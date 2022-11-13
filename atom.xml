@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Typeof.net</title>
+  
+  
+  <link href="http://typeof.net/atom.xml" rel="self"/>
+  
+  <link href="http://typeof.net/"/>
+  <updated>2022-11-13T04:00:45.509Z</updated>
+  <id>http://typeof.net/</id>
+  
+  <author>
+    <name>Belleve Invis</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Integrals of variable values</title>
+    <link href="http://typeof.net/2022/integrations-of-variable-values/"/>
+    <id>http://typeof.net/2022/integrations-of-variable-values/</id>
+    <published>2022-11-12T08:00:00.000Z</published>
+    <updated>2022-11-13T04:00:45.509Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;This is an open problem about “variable values” in variable fonts.&lt;/p&gt;
+&lt;p&gt;Consider the variable value model we discussed in previous post</summary>
+      
+    
+    
+    
+    
+    <category term="Typeface" scheme="http://typeof.net/tags/Typeface/"/>
+    
+    <category term="Geometry" scheme="http://typeof.net/tags/Geometry/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>On High-order Interpolation and Non-linear Interpolation</title>
+    <link href="http://typeof.net/2021/on-hoi-and-nli/"/>
+    <id>http://typeof.net/2021/on-hoi-and-nli/</id>
+    <published>2021-01-28T08:00:00.000Z</published>
+    <updated>2021-01-29T06:30:45.113Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Defining a mechanism to represent polynomials in OtVar’s mechanism is possible, if one axis value could be assigned to multiple axes. Fro</summary>
+      
+    
+    
+    
+    
+    <category term="Typeface" scheme="http://typeof.net/tags/Typeface/"/>
+    
+    <category term="Geometry" scheme="http://typeof.net/tags/Geometry/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Analyzing Variation Models</title>
+    <link href="http://typeof.net/2019/analyzing-variation-model/"/>
+    <id>http://typeof.net/2019/analyzing-variation-model/</id>
+    <published>2019-04-15T07:00:00.000Z</published>
+    <updated>2019-12-25T09:41:25.259Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;I am surprised that nobody actually did a mathematical analysis of the variation model in OpenType. They are simply reusing the concepts </summary>
+      
+    
+    
+    
+    
+    <category term="Typeface" scheme="http://typeof.net/tags/Typeface/"/>
+    
+    <category term="Geometry" scheme="http://typeof.net/tags/Geometry/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>笔记：无名表示</title>
+    <link href="http://typeof.net/2017/note-nameless/"/>
+    <id>http://typeof.net/2017/note-nameless/</id>
+    <published>2017-04-06T07:00:00.000Z</published>
+    <updated>2017-04-06T14:28:21.694Z</updated>
+    
+    
+      
+      
+    <summary type="html"> &lt;p&gt;传统的有名 CoC 项语法：&lt;/p&gt;
+&lt;table class=&quot;eqn-align&quot;&gt;&lt;tr&gt;&lt;td style=&quot;text-align:right&quot;&gt;&lt;span class=&quot;eqn&quot;&gt;&lt;span style=&quot;height:1.2em;vertical-align:</summary>
+      
+    
+    
+    
+    
+    <category term="PLT" scheme="http://typeof.net/tags/PLT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第三法</title>
+    <link href="http://typeof.net/2017/third-magic/"/>
+    <id>http://typeof.net/2017/third-magic/</id>
+    <published>2017-03-22T12:00:00.000Z</published>
+    <updated>2017-12-20T08:29:32.554Z</updated>
+    
+    
+      
+      
+    <summary type="html"> &lt;p&gt;我们离写出正确的程序还有多远？&lt;/p&gt;
+&lt;p&gt;这里的「正确」不仅仅是通过测试那么简单，而是要保证逻辑学层面的「正确性」，即至少可以满足逻辑命题的程度。比如考虑下面的翻转二叉树：&lt;/p&gt;
+&lt;pre&gt;data Tree : Type -&amp;gt; Type where
+	Lea</summary>
+      
+    
+    
+    
+    
+    <category term="PLT" scheme="http://typeof.net/tags/PLT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Salve Youki — Salve Hexo</title>
+    <link href="http://typeof.net/2017/salve-youki/"/>
+    <id>http://typeof.net/2017/salve-youki/</id>
+    <published>2017-03-22T11:00:00.000Z</published>
+    <updated>2017-03-21T19:21:25.222Z</updated>
+    
+    
+      
+      
+    <summary type="html"> &lt;p&gt;简单来说就是，我终于抛弃三年前自己写的脚本，换用 Hexo 啦！给 Hexo 写 Youki 的 renderer 看上去也没有那么困难，当然为了 hexo s，只能放弃 Youki 的「单次执行加载模块」，每次都解释一遍——好在消耗不算大。&lt;/p&gt;
+&lt;p&gt;但是！现在终于</summary>
+      
+    
+    
+    
+    
+    <category term="JS" scheme="http://typeof.net/tags/JS/"/>
+    
+    <category term="Hexo" scheme="http://typeof.net/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Introducing otfcc</title>
+    <link href="http://typeof.net/2016/otfcc/"/>
+    <id>http://typeof.net/2016/otfcc/</id>
+    <published>2016-04-30T07:00:00.000Z</published>
+    <updated>2017-03-29T12:00:07.121Z</updated>
+    
+    
+      
+      
+    <summary type="html"> &lt;p&gt;尽管 &lt;a href=&quot;https://github.com/be5invis/node-sfnt&quot;&gt;node-sfnt&lt;/a&gt; 本身十分适合在 Node 中处理 ttf，然而我还是不满意，主要是两点：&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;node-sfnt 只能读取 CFF，无法写</summary>
+      
+    
+    
+    
+    
+    <category term="Typeface" scheme="http://typeof.net/tags/Typeface/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一百六十五夜</title>
+    <link href="http://typeof.net/2015/165-nights/"/>
+    <id>http://typeof.net/2015/165-nights/</id>
+    <published>2015-12-31T08:00:00.000Z</published>
+    <updated>2018-03-23T10:11:30.898Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/be5invis/Iosevka/master/images/weights.png&quot; alt=&quot;iosevka&#39;s preview&quot;&gt;&lt;/p&gt;
+&lt;p&gt;七月十九日，我开始制作 Iosev</summary>
+      
+    
+    
+    
+    
+    <category term="Typeface" scheme="http://typeof.net/tags/Typeface/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>指针的 Hoare Logic：Separation Logic</title>
+    <link href="http://typeof.net/2015/samasa-02-separation-logic/"/>
+    <id>http://typeof.net/2015/samasa-02-separation-logic/</id>
+    <published>2015-05-17T07:00:00.000Z</published>
+    <updated>2017-03-29T12:58:15.243Z</updated>
+    
+    
+      
+      
+    <summary type="html"> &lt;p&gt;Hoare Logic 是证明程序正确性的法宝，具体而言，它给出了逐步推理程序正确性的方法。Hoare Logic 使用符号 &lt;span class=&quot;eqn&quot;&gt;&lt;span class=&quot;e bn l&quot;&gt;{&lt;/span&gt;&lt;var&gt;P&lt;/var&gt;&lt;span class=&quot;e</summary>
+      
+    
+    
+    
+    
+    <category term="PLT" scheme="http://typeof.net/tags/PLT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>健康宏展开的故事</title>
+    <link href="http://typeof.net/2015/samasa-01-about-macros/"/>
+    <id>http://typeof.net/2015/samasa-01-about-macros/</id>
+    <published>2015-03-29T07:00:00.000Z</published>
+    <updated>2017-03-29T11:57:08.018Z</updated>
+    
+    
+      
+      
+    <summary type="html"> &lt;p&gt;本文同步发布至 &lt;a href=&quot;http://zhuanlan.zhihu.com/hllvm/19957610&quot;&gt;知乎专栏&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;今受 @RednaxelaFX 的邀请，到此地方来，本打算像写书那样，写个长的系列，唤作《六离合释》，借个 Panini</summary>
+      
+    
+    
+    
+    
+    <category term="PLT" scheme="http://typeof.net/tags/PLT/"/>
+    
+  </entry>
+  
+</feed>
