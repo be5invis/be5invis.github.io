@@ -151,48 +151,6 @@
   </entry>
   
   <entry>
-    <title>Introducing otfcc</title>
-    <link href="http://typeof.net/2016/otfcc/"/>
-    <id>http://typeof.net/2016/otfcc/</id>
-    <published>2016-04-30T07:00:00.000Z</published>
-    <updated>2017-03-29T12:00:07.121Z</updated>
-    
-    
-      
-      
-    <summary type="html"> &lt;p&gt;尽管 &lt;a href=&quot;https://github.com/be5invis/node-sfnt&quot;&gt;node-sfnt&lt;/a&gt; 本身十分适合在 Node 中处理 ttf，然而我还是不满意，主要是两点：&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;node-sfnt 只能读取 CFF，无法写</summary>
-      
-    
-    
-    
-    
-    <category term="Typeface" scheme="http://typeof.net/tags/Typeface/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一百六十五夜</title>
-    <link href="http://typeof.net/2015/165-nights/"/>
-    <id>http://typeof.net/2015/165-nights/</id>
-    <published>2015-12-31T08:00:00.000Z</published>
-    <updated>2018-03-23T10:11:30.898Z</updated>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/be5invis/Iosevka/master/images/weights.png&quot; alt=&quot;iosevka&#39;s preview&quot;&gt;&lt;/p&gt;
-&lt;p&gt;七月十九日，我开始制作 Iosev</summary>
-      
-    
-    
-    
-    
-    <category term="Typeface" scheme="http://typeof.net/tags/Typeface/"/>
-    
-  </entry>
-  
-  <entry>
     <title>指针的 Hoare Logic：Separation Logic</title>
     <link href="http://typeof.net/2015/samasa-02-separation-logic/"/>
     <id>http://typeof.net/2015/samasa-02-separation-logic/</id>
