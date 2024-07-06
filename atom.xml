@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Typeof.net</title>
+  
+  
+  <link href="http://typeof.net/atom.xml" rel="self"/>
+  
+  <link href="http://typeof.net/"/>
+  <updated>2022-11-30T07:51:10.374Z</updated>
+  <id>http://typeof.net/</id>
+  
+  <author>
+    <name>Belleve Invis</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Integrals of variable values</title>
+    <link href="http://typeof.net/2022/integrations-of-variable-values/"/>
+    <id>http://typeof.net/2022/integrations-of-variable-values/</id>
+    <published>2022-11-12T08:00:00.000Z</published>
+    <updated>2022-11-30T07:51:10.374Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;This is an open problem about “variable values” in variable fonts.&lt;/p&gt;
+&lt;p&gt;Consider the variable value model we discussed in previous post</summary>
+      
+    
+    
+    
+    
+    <category term="Typeface" scheme="http://typeof.net/tags/Typeface/"/>
+    
+    <category term="Geometry" scheme="http://typeof.net/tags/Geometry/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>On High-order Interpolation and Non-linear Interpolation</title>
+    <link href="http://typeof.net/2021/on-hoi-and-nli/"/>
+    <id>http://typeof.net/2021/on-hoi-and-nli/</id>
+    <published>2021-01-28T08:00:00.000Z</published>
+    <updated>2021-01-29T06:30:45.113Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Defining a mechanism to represent polynomials in OtVar’s mechanism is possible, if one axis value could be assigned to multiple axes. Fro</summary>
+      
+    
+    
+    
+    
+    <category term="Typeface" scheme="http://typeof.net/tags/Typeface/"/>
+    
+    <category term="Geometry" scheme="http://typeof.net/tags/Geometry/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Analyzing Variation Models</title>
+    <link href="http://typeof.net/2019/analyzing-variation-model/"/>
+    <id>http://typeof.net/2019/analyzing-variation-model/</id>
+    <published>2019-04-15T07:00:00.000Z</published>
+    <updated>2019-12-25T09:41:25.259Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;I am surprised that nobody actually did a mathematical analysis of the variation model in OpenType. They are simply reusing the concepts </summary>
+      
+    
+    
+    
+    
+    <category term="Typeface" scheme="http://typeof.net/tags/Typeface/"/>
+    
+    <category term="Geometry" scheme="http://typeof.net/tags/Geometry/"/>
+    
+  </entry>
+  
+</feed>
